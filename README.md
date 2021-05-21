@@ -46,6 +46,7 @@ setapp
 
 * [蜜蜂软件](https://www.mifengapps.com/home/index)，他们家微店也有
 * [数码荔枝](https://store.lizhi.io)，网站、淘宝都有
+  * 荔枝还有QQ群，里面总是讨论一些有趣的软件，说不定能找到你志同道合的好友呢。
 
 ## APPs on My MBP 装机必备🤩
 
