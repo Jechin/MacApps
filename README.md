@@ -49,9 +49,9 @@ setapp
 
 ## APPs on My MBP 装机必备🤩
 
-#### 效率类
+### 效率类
 
-##### Alfred ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
+#### Alfred ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
 
 简单实用：app快捷打开、文件查找、浏览器快速查询
 
@@ -67,7 +67,7 @@ setapp
 
 ![image-20210520203515153](https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210520203515153.png)
 
-##### 自动切换输入法 Lite![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
+#### 自动切换输入法 Lite ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
 
 来自一家良心的国产软件公司，[better365](https://www.better365.cn)。
 
@@ -79,7 +79,7 @@ setapp
 
 <img src="https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210520204203809.png" alt="image-20210520204203809" width="300" />
 
-##### Ishot![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
+#### Ishot ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
 
 同样来自于better365，所以说这家公司真的良心。
 
@@ -91,7 +91,7 @@ setapp
 
 ![image-20210520204719134](https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210520204719134.png)
 
-##### Yoink![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
+#### Yoink ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
 
 如果你是一个喜欢整理文件夹的人，这个app你肯定用得到。
 
@@ -101,7 +101,7 @@ setapp
 
 ![Yoink for Mac](https://raw.githubusercontent.com/Jechin/PicLib/main/image/Yoink%20for%20Mac.gif)
 
-##### Bartender 4![recommand](https://img.shields.io/badge/Recommand-★★★★-brightgreen.svg)
+#### Bartender 4 ![recommand](https://img.shields.io/badge/Recommand-★★★★-brightgreen.svg)
 
 一款菜单栏缩略软件，当你打开多个app后，mac顶部的菜单栏就变得复杂。
 
@@ -113,13 +113,13 @@ setapp
 
 ![image-20210520210817837](https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210520210817837.png)
 
-##### Bob![recommand](https://img.shields.io/badge/Recommand-★★★-brightgreen.svg)
+#### Bob ![recommand](https://img.shields.io/badge/Recommand-★★★-brightgreen.svg)
 
 划词翻译，这是这个app最让人心动的地方。
 
 这是一个开源免费的app，具体内容可以在[主页](https://github.com/ripperhe/Bob)查看。
 
-##### Magnet![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
+#### Magnet ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
 
 窗口管理类工具，我没有太多窗口需求，所以使用的也不是很多，所有在电脑上只有这一个。
 
@@ -127,7 +127,7 @@ setapp
 
 可以在app store下载使用。
 
-##### cheatsheet![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
+#### cheatsheet ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
 
 一款长按‘command’来显示快捷键的程序。对新手很友好，快速查看快捷键。
 
@@ -141,7 +141,7 @@ setapp
 
 ### 系统扩展类，工具类
 
-##### AppCleaner![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
+#### AppCleaner ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
 
 mac上最简单也是最好用的app卸载工具，他可以帮你查找到所有有关的文件并且删除。
 
@@ -149,7 +149,7 @@ mac上最简单也是最好用的app卸载工具，他可以帮你查找到所�
 
 ![image-20210520211318333](https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210520211318333.png)
 
-##### Mounty![recommand](https://img.shields.io/badge/Recommand-★★★★-brightgreen.svg)
+#### Mounty ![recommand](https://img.shields.io/badge/Recommand-★★★★-brightgreen.svg)
 
 用来挂载NTFS卷的app，有些格式的u盘插到mac上后无法完成写操作，可以利用这个app。
 
@@ -157,7 +157,7 @@ mac上最简单也是最好用的app卸载工具，他可以帮你查找到所�
 
 可以在[官网](https://mounty.app/)下载。
 
-##### IINA![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
+#### IINA ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
 
 视频播放器，免费好用
 
@@ -165,7 +165,7 @@ mac上最简单也是最好用的app卸载工具，他可以帮你查找到所�
 
 ![image-20210520212754481](/Users/Jechin/Library/Application Support/typora-user-images/image-20210520212754481.png)
 
-##### Myzip Pro![recommand](https://img.shields.io/badge/Recommand-★★★★-brightgreen.svg)
+#### Myzip Pro ![recommand](https://img.shields.io/badge/Recommand-★★★★-brightgreen.svg)
 
 一款压缩软件，同样来自better365，主要看中了他能自动删除macos在文件夹中自动生成的.DS_Store。
 
@@ -177,7 +177,7 @@ mac上最简单也是最好用的app卸载工具，他可以帮你查找到所�
 
 在app store下载。
 
-##### Downie![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
+#### Downie ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
 
 一个被大家吹上天的下载软件，可以下载网页上的资源，一些stream类型的视频。
 
@@ -189,7 +189,7 @@ mac上最简单也是最好用的app卸载工具，他可以帮你查找到所�
 
 ![image-20210520213214010](https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210520213214010.png)
 
-##### Permute![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
+#### Permute ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
 
 一款我觉得还比较实用的视频格式转换软件，支持大部分主流视频格式，还支持图拍格式转换。
 
@@ -197,7 +197,7 @@ mac上最简单也是最好用的app卸载工具，他可以帮你查找到所�
 
 ![image-20210520213511884](https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210520213511884.png)
 
-##### BetterTouchTool![recommand](https://img.shields.io/badge/Recommand-★★★★-brightgreen.svg)
+#### BetterTouchTool ![recommand](https://img.shields.io/badge/Recommand-★★★★-brightgreen.svg)
 
 一款全方面增强外设的app，包括键盘、鼠标、触控板、**touchbar**（重点）。
 
@@ -227,13 +227,13 @@ mac上最简单也是最好用的app卸载工具，他可以帮你查找到所�
 
 其实我更推荐大家自己定义自己的touch bar，少整那些花里胡哨的，简单一点就好。
 
-##### LyricsX![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
+#### LyricsX ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
 
 一款好用的桌面歌词软件，主要针对apple music用户，其他音乐软件也能用但是应该用不上。
 
 推荐大家在[GitHub主页](https://github.com/ddddxxx/LyricsX)下载。
 
-##### 1password
+#### 1password
 
 应该是跨平台最好用的密码管理器。
 
@@ -245,7 +245,7 @@ mac上最简单也是最好用的app卸载工具，他可以帮你查找到所�
 
 ### 生产力app
 
-##### 虚拟机
+#### 虚拟机
 
 个人比较推荐VM ware，原因：便宜，个人版免费
 
@@ -253,13 +253,45 @@ PD的话做得更加出色，如果m1芯片的朋友，目前（21.05.20）想�
 
 小众虚拟机，UTM，m1也能运行Windows，但是稳定性不是很好，有兴趣的小伙伴可以关注[GitHub主页](https://github.com/utmapp/UTM)。
 
-##### PDF Expert
+#### PDF Expert ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
 
 PDF阅读、编辑软件，很稳定、功能全面、打开很快、占用内存小。
 
 反正都是优点，冲就完事了。
 
 ![image-20210520215746194](https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210520215746194.png)
+
+#### Typora ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
+
+免费好用的markdown写作，可能没有mweb那么多复杂的功能，但是他**免费**啊，界面简单。一些基本的功能也都不落下，比如图床上传等。
+
+最大的亮点就是：支持编辑的同时预览。
+
+墙裂推荐，但是他好像快要收费了，所以想要体验的朋友们不要错过。
+
+可以在[官网](https://typora.io)下载使用
+
+<img src="https://raw.githubusercontent.com/Jechin/PicLib/main/image/Typora%20%E2%80%94%20a%20markdown%20editor%2C%20markdown%20reader..gif" alt="Typora — a markdown editor, markdown reader." style="border-radius: 8px;box-shadow: 0px 0px 8px 3px #ccc;" />
+
+#### 知云文献翻译 ![recommand](https://img.shields.io/badge/Recommand-★★★★-brightgreen.svg)
+
+外文文献阅读利器，唯一的缺点就是ui界面有点丑
+
+推荐在[官网](http://www.zhiyunwenxian.cn)下载
+
+#### CAJ云阅读
+
+知网文献CAJ格式的阅读器，目前好像没有找到其他的，可以在[app store](https://apps.apple.com/cn/app/caj%E4%BA%91%E9%98%85%E8%AF%BB/id1121965993?mt=12)下载。
+
+![image-20210522000218024](https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210522000218024.png)
+
+#### CodeRunner
+
+小型代码的最佳利器，如果不是大的工程项目，只是单独的程序代码，很推荐大家使用这款编辑器。不用自己配置（vscode有感而发），轻便（Xcode有感而发），集成度高，支持大多主流语言（jetbrain有感而发），而且能直接调试，无敌啊。
+
+推荐大家在[官网](www.coderunnerapp.com)或者[appstore](https://apps.apple.com/cn/app/coderunner-4/id955297617?mt=12)下载
+
+![image-20210522000654944](https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210522000654944.png)
 
 ## Mac Screen Saver
 
