@@ -3,6 +3,50 @@ Apps for Mac recommendation
 
 注：本人从事计算机相关工作，此GitHub主要推荐一些效率类app和基础系统扩展类为主。
 
+## Mac App下载
+
+总的来说，一般的mac端app下载使用有以下几种方式
+
+1. app store
+2. app官网
+3. 下载站
+4. setapp订阅类
+
+简单对以上的下载方式做分析吧，小伙伴们也可以选择自己喜欢的方式
+
+首先是app store，这种渠道的软件一般比较稳定，但是在mac端app store中上架的软件还是少数
+
+* 优点：不用费劲的整理一些授权吗或者license，全部在你的apple ID上，换机的时候最方便，且无设备数量限制。软件卸载方便，和手机卸载app类似。
+* 缺点：相较于官网，更新可能较慢，app数量较少
+
+其次是app的官网
+
+* 优点：更新及时，价格可能比app store便宜一些，可能存在学生折扣
+* 缺点：一般有设备数量的限制，换机安装需要在原来的机器上解绑license，如果未解绑，且无法解绑，需要联系开发者（一般可以为你做解绑操作，也可能不理你）
+
+简单推荐一些免费的下载站
+
+* macwk：[macwk.com](macwk.com)
+* 史蒂芬孙的博客（免费，推荐）：http://www.sdifen.com/
+* Xclient（免费，资源丰富，历史版本下载，极力推荐）：http://xclient.info
+
+下载站的优缺点
+
+* 优点：软件数量多，有些下载站有很多破解版（本人并不支持破解版，但是学生党买不起软件也理解），可以白嫖很多软件
+* 缺点：第三方下载，无安全性保护（大家尽量去一些大站），更新速度全凭站长心情
+
+setapp
+
+* 优点：订阅享受大量的付费软件，有兴趣的小伙伴可以体验一下，[官网](https://setapp.com)
+* 缺点：用了就停不下来，（但是现在的付费软件都渐渐从买断向订阅转变，这应该是一个大趋势）
+
+### 以上是一些下载方法，针对支持正版的购买方式
+
+在app store、官网、setapp都可以购买，我还推荐在一些国内的代理商购买，一般价格会比直接在官网买便宜些，我选择的有
+
+* [蜜蜂软件](https://www.mifengapps.com/home/index)，他们家微店也有
+* [数码荔枝](https://store.lizhi.io)，网站、淘宝都有
+
 ## APPs on My MBP 装机必备🤩
 
 #### 效率类
@@ -216,4 +260,8 @@ PDF阅读、编辑软件，很稳定、功能全面、打开很快、占用内�
 反正都是优点，冲就完事了。
 
 ![image-20210520215746194](https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210520215746194.png)
+
+## Mac Screen Saver
+
+[了解更多](https://github.com/Jechin/ScreenSaverForMac)
 
