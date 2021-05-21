@@ -246,6 +246,14 @@ mac上最简单也是最好用的app卸载工具，他可以帮你查找到所�
 
 ### 生产力app
 
+#### Notion ![recommand](https://img.shields.io/badge/Recommand-★★★★-brightgreen.svg)
+
+一款。。。🤔不知道怎么形容的软件，主要能帮助你做一些规划，可能使用起来需要一点学习成本，还有就是服务器在国外可能同步有一点点慢。还有就是一开始的时候可能会觉得优点无从下手。
+
+但是优点来了：**长的好看**，并且能从方方面面管理你的生活，不仅是短期的todo，还是长期的年度计划，学习安排，日记等等。
+
+![image-20210522002336524](https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210522002336524.png)
+
 #### 虚拟机
 
 个人比较推荐VM ware，原因：便宜，个人版免费
