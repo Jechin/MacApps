@@ -1,7 +1,7 @@
 # MacApps
 Apps for Mac recommendation
 
-注：本人从事计算机相关工作，此GitHub主要推荐一些效率类app和基础系统扩展类为主。
+注：本人就读计算机相关专业，此GitHub主要推荐一些效率类app和基础系统扩展类为主。
 
 ## Mac App下载
 
