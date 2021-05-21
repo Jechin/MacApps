@@ -280,13 +280,13 @@ PDF阅读、编辑软件，很稳定、功能全面、打开很快、占用内�
 
 推荐在[官网](http://www.zhiyunwenxian.cn)下载
 
-#### CAJ云阅读
+#### CAJ云阅读 ![recommand](https://img.shields.io/badge/Recommand-★★★★-brightgreen.svg)
 
 知网文献CAJ格式的阅读器，目前好像没有找到其他的，可以在[app store](https://apps.apple.com/cn/app/caj%E4%BA%91%E9%98%85%E8%AF%BB/id1121965993?mt=12)下载。
 
 ![image-20210522000218024](https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210522000218024.png)
 
-#### CodeRunner
+#### CodeRunner ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
 
 小型代码的最佳利器，如果不是大的工程项目，只是单独的程序代码，很推荐大家使用这款编辑器。不用自己配置（vscode有感而发），轻便（Xcode有感而发），集成度高，支持大多主流语言（jetbrain有感而发），而且能直接调试，无敌啊。
 
