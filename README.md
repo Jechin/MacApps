@@ -164,7 +164,7 @@ mac上最简单也是最好用的app卸载工具，他可以帮你查找到所�
 
 [官网](https://iina.io)下载。
 
-![image-20210520212754481](/Users/Jechin/Library/Application Support/typora-user-images/image-20210520212754481.png)
+![image-20210520212754481](https://raw.githubusercontent.com/Jechin/PicLib/main/image/image-20210520212754481.png)
 
 #### Myzip Pro ![recommand](https://img.shields.io/badge/Recommand-★★★★-brightgreen.svg)
 
