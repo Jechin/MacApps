@@ -26,7 +26,7 @@ Apps for Mac recommendation
 
 简单推荐一些免费的下载站
 
-* macwk：[macwk.com](macwk.com)
+* ~~macwk：[macwk.com](macwk.com)~~
 * 史蒂芬孙的博客（免费，推荐）：http://www.sdifen.com/
 * Xclient（免费，资源丰富，历史版本下载，极力推荐）：http://xclient.info
 
@@ -243,6 +243,14 @@ mac上最简单也是最好用的app卸载工具，他可以帮你查找到所�
 1password的羊毛挺多，大概是黑五的时候经常有1年的家庭版使用，想体验的uu们可以等一等。
 
 建议在[官网](https://1password.com)下载。
+
+#### Tinkertool ![recommand](https://img.shields.io/badge/Recommand-★★★★★-brightgreen.svg)
+
+隐藏的系统设置，用软件方式方便用户修改和使用。
+
+例如：针对Finder、Dock的一系列设置，修改Launchpad启动台的图标数量等。
+
+建议[官网](https://www.bresink.com/osx/TinkerTool.html) 下载。
 
 ### 生产力app
 
